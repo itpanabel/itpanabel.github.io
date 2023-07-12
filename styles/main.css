@@ -1,0 +1,13 @@
+:root {
+  font-size: 1rem;
+  --heading-font: 'Quattrocento', serif;
+  --body-font: 'Quicksand', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-font);
+}
+
+body {
+  font-family: var(--body-font);
+}
