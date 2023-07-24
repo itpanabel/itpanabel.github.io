@@ -11,3 +11,11 @@ h1, h2, h3, h4, h5, h6 {
 body {
   font-family: var(--body-font);
 }
+
+.email-autocomplete {
+  color: #c2c2c2;
+}
+
+#guerlainSpecific {
+  display: none;
+}
